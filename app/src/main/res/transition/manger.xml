@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionManager xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<transition android:fromScene="@layout/set1"
+    android:toScene="@layout/set2"
+    android:transition="@transition/tranc">
+
+</transition>
+</transitionManager>
